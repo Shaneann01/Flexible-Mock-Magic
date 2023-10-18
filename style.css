@@ -106,3 +106,10 @@ footer {
   justify-content: space-between;
   flex-direction: column;
 }
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
